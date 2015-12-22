@@ -1,5 +1,7 @@
 # Next
 
+- Fixes issue that stubbed responses still call the network.
+
 # 5.2.1
      
 - Update to ReactiveCocoa v4.0.0-RC.1
